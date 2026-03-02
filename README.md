@@ -1,6 +1,12 @@
 
 🚗 Indian Used Car Market Analysis
 This project provides a comprehensive analysis of the Indian used car market, leveraging a dataset of over 4,000 vehicles. By utilizing SQL for data extraction and Python (Seaborn & Matplotlib) for visualization, the study identifies critical drivers of vehicle resale value across four key business dimensions.
+
+How to install packages of the project
+```
+pip install -r requirements
+```
+
 📊 Key Business Insights
 
 <img width="4800" height="3600" alt="image" src="https://github.com/user-attachments/assets/29e5b8af-9e1e-429a-b045-e2474ea477d3" />
